@@ -4,5 +4,11 @@
   "description": "Basic chat app",
   "main": "index.js",
   "author": "Espinhara & Landuci",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "@types/express": "^4.17.7"
+  }
 }
