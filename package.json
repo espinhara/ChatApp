@@ -1,0 +1,8 @@
+{
+  "name": "ChatApp",
+  "version": "1.0.0",
+  "description": "Basic chat app",
+  "main": "index.js",
+  "author": "Espinhara & Landuci",
+  "license": "MIT"
+}
